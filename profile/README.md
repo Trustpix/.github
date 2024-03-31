@@ -19,6 +19,7 @@ The TrustPix organization on GitHub consists of the following repositories:
 - `trustpix-app`: Contains the source code for the TrustPix mobile app, built with React Native.
 - `trustpix-backend`: Houses the backend implementation using Python, including API endpoints, data models, and business logic.
 - `trustpix-infrastructure`: Provides the necessary infrastructure configuration and deployment scripts for setting up the TrustPix environment.
+- `trustpix-web`: Contains the trustpix web
 
 ## Getting Started
 
