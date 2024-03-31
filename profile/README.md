@@ -8,7 +8,7 @@ TrustPix consists of the following components:
 
 1. **Mobile App**: A cross-platform mobile application built using React Native, supporting both Android and iOS devices. The app provides a seamless and intuitive user experience for sharing photos, engaging with others, and exploring content.
 
-2. **Backend**: The backend of TrustPix is developed using Python, leveraging its robustness and extensive ecosystem. It handles user authentication, data storage, and serves as the API layer for the mobile app.
+2. **Backend**: The backend of TrustPix is developed using Python, leveraging its robustness and extensive ecosystem. It serves as the API layer for the mobile app.
 
 3. **Database**: TrustPix utilizes Redis as its primary database solution. Redis offers high performance, scalability, and real-time data processing capabilities, ensuring a smooth and responsive user experience.
 
